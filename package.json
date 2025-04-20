@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@notionhq/client": "^2.3.0"
+    "@notionhq/client": "^2.3.0",
+    "cors": "^2.8.5"
   }
 }
